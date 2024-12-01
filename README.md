@@ -106,10 +106,10 @@ Attempt to ping “mainframe” again. Observe the address of the new record is 
 
 Go back to DC-1 and create a CNAME record that points the host “search” to “www.google.com" <br/>
 
-<img src="https://i.imgur.com/oOZF3rq.png" height="80%" width="80%" alt="create cname"/>
+<img src="https://i.imgur.com/oOZF3rq.png" height="60%" width="60%" alt="create cname"/>
 <br />
 <br />
-<img src="https://i.imgur.com/JJkgeiW.png" height="80%" width="80%" alt="create cname2"/>
+<img src="https://i.imgur.com/JJkgeiW.png" height="60%" width="60%" alt="create cname2"/>
 <br />
 <br />
 
