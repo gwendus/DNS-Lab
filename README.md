@@ -2,7 +2,7 @@
 
 <img src="https://journeyofthegeek.com/wp-content/uploads/2019/11/azure-dns.png?w=512&h=476&crop=1"  height="30%" width="30%" alt="Group Policy Management Console"/>
  
- <h1>Domain Naming System Lab</h1>
+ <h1>Domain Name System Lab</h1>
 The objective of this lab is to gain hands-on experience with the role of DNS in networking, focusing on its function in translating domain names to IP addresses and its integration within a cloud-based environment. This lab relies on our resources created in our previous networking lab.
 
 <br />
