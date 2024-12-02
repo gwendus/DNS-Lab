@@ -20,6 +20,10 @@ The objective of this lab is to gain hands-on experience with the role of DNS in
 - <b>Windows Server</b> (2022)
   <br />
 
+<h2>Prerequisites</h2>
+Complete the following lab series: <a href="https://github.com/gwendus/ADInfrastructureInAzure/blob/main/README.md">Preparing Active Directory Infrastructure in Microsoft Azure</a>
+<br />
+
 <h2>Address-Record Exercise</h2>
 Log into DC-1 as jane_admin (your domain admin account) and then log in to Client-1 as an admin too. From Client-1, try to ping "mainframe" and notice that it fails.
   <br>
